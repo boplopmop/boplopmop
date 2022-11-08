@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boplopmop
 - 👀 I’m interested in mathematics and education
-- 🌱 I’m currently learning education
+- 🌱 I’m currently looking to learn web development on my own
 - 💞️ I’m looking to collaborate on anything
 
 <!---
